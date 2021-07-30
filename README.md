@@ -1,6 +1,6 @@
 ## PaREM
 
-Proyecto perteneciente al curso de Programación Paralela y Distribuída. Se ha implementado la propuesta de la investigación *Parallel Regular Expression Matching* por medio de OpenMP utilizando C++.
+Proyecto perteneciente al curso de Programación Paralela y Distribuída de Ciencia de la Computación en la Universidad de Ingeniería y Tecnología. Se ha implementado la propuesta de la investigación *Parallel Regular Expression Matching* por medio de OpenMP utilizando C++.
 
 ### Integrantes
 
