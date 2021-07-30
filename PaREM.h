@@ -78,8 +78,6 @@ bool PaREM(DFA& dfa, const string& T, int p, Mode mode) {
             hasF[i].PB(foundQ);
         }
         
-        #pragma omp barrier
-        
     }
     
     //print_I(I, p);
