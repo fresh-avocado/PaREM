@@ -15,3 +15,10 @@ En el repositorio se encuentran la implementación el algoritmo en paralelo en *
 ### Documentos
 
 Se adjunta el proyecto de investigación de referencia (*PAREM.pdf*) y un informe que tiene como finalidad tanto explicar los procedimientos del algoritmo implementado como realizar un análisis experimental respecto al speedup del algoritmo al incrementar el número del problema y el número de threads.
+
+### Compilación
+
+MacOS: clang++ -Xpreprocessor -fopenmp -lomp  main.cpp
+Linux: -fopenmp main.cpp
+
+*Se debe tener instalado OpenMP*
