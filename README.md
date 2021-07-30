@@ -21,6 +21,7 @@ Se adjunta el proyecto de investigación de referencia (*PAREM.pdf*) y un inform
 Se han incluído un archivo de inputs de diversos tamaños para correr pruebas con números de procesos distintos y un archivo *main.cpp* donde se encuentra la ejecución de las mismas. Es posible compilarlo de la manera siguiente:
 
 MacOS: `clang++ -Xpreprocessor -fopenmp -lomp  main.cpp`
+
 Linux: `g++ -fopenmp main.cpp`
 
 *Se debe tener instalado OpenMP.*
