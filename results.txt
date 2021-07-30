@@ -1,0 +1,20 @@
+100
+2 threads: 218.105 µs
+4 threads: 158.215 µs
+8 threads: 238.228 µs
+16 threads: 335.598 µs
+1000
+2 threads: 714.803 µs
+4 threads: 1050.5 µs
+8 threads: 624.394 µs
+16 threads: 802.112 µs
+10000
+2 threads: 10009 µs
+4 threads: 9808.52 µs
+8 threads: 4970.79 µs
+16 threads: 3814.91 µs
+100000
+2 threads: 83232.3 µs
+4 threads: 62488.4 µs
+8 threads: 43837.2 µs
+16 threads: 35715.4 µs
